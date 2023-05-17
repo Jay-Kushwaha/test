@@ -3,7 +3,7 @@
   <img src="https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2022-11-22/unnamed_236167.gif"> 
  ## Folder Structure  
 ```
-  -src
+    -src
       |--->App.jsx
       |--->App.module.css
       |--->Components
@@ -17,5 +17,4 @@
                   UserCard.jsx
                   Users.jsx
                   Users.module.css
-  
-  
+```
